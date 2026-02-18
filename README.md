@@ -1,5 +1,6 @@
-# NODE_BSM1
-NODE modelling in BSM1
+# Data-driven modelling of N2O production in wastewater processes using neural ordinary differential equations
+
+Data-driven modelling of extended activated sludge processes with greenhouse gases (ASMG1 model, including N2O production) in a BSM1 plant. Please check the paper below for details: "Data-driven modelling of N2O production in wastewater processes using neural ordinary differential equations".
 
 "/data/" folder under root contains training data for different influent scenarios (dry, rain, storm)
 
